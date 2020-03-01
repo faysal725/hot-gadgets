@@ -1,0 +1,70 @@
+
+.carousel-item{
+    padding: 20px 20px;
+}
+
+.left-side{
+    height:156px;
+}
+
+.container{
+    padding-top: 40px;
+}
+
+.card-img-top{
+    padding: 30px;
+}
+
+.card{
+    border: none;
+}
+
+.card-text{
+    text-align: center;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.price{
+    text-align: center;
+    font-size: 23px;
+}
+
+
+
+
+.buy-now-button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+
+
+.underline{
+    text-decoration: underline;
+    padding-top: 47px;
+    padding-bottom: 55px;
+}
+
+
+span{
+    color:rgb(246, 146, 15);
+}
+
+
+.packets{
+    background-color: rgba(246, 246, 198, 0.164);
+}
+
+
+.pale{
+    height: 600px;
+    width: 600px;
+}
+
